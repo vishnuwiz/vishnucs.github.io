@@ -373,7 +373,7 @@ body.contact-on .contact-section {
 	letter-spacing: 1px;
 	color: #866BAF;
 }
-@media screen and (max-width: 580px){
+@media screen and (max-width: 800px){
 	.contact-section a{
 		font-size: 17px;
 	}
