@@ -270,7 +270,7 @@ body.about-on .about-section {
 	border-radius: 4px;
 	display: block;
 	margin: 0 auto;
-	box-shadow: 0 0 20px rgba(0,0,0,0.15);
+	box-shadow: -15px 20px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
 }
 .about-section p span {
     font-family: 'Dancing Script', cursive;
